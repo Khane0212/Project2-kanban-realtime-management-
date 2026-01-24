@@ -120,3 +120,8 @@ npm install
 
 npm run dev
 
+Author: Nguyễn An Khang
+
+Role: Full-stack Developer
+
+Email: nguyenankhangbv02@gmail.com
