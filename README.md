@@ -39,20 +39,21 @@ Sử dụng file database_schema.sql để tạo cấu trúc bảng.
 
 2. Backend Configuration
 
-  cd backend
-  npm install
+cd backend
+npm install
 
-Tạo file .env từ mẫu .env.example với các biến:
+- Tạo file .env từ mẫu .env.example với các biến:
   PORT=5000
   DB_USER, DB_PASS, DB_NAME, DB_HOST, DB_PORT
   JWT_SECRET
 
-Chạy server: npm start.
+- Chạy server: npm start
 
 
 3. Frontend Configuration
 
 cd frontend
 npm install
-npm start
+
+npm run dev
 
